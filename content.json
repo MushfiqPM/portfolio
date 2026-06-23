@@ -1,0 +1,463 @@
+{
+  "meta": {
+    "name": "Muhammad Mushfiqur Rahman",
+    "title": "Technical Product Manager / Founding Partner / Ex-Developer",
+    "location": "Dhaka, Bangladesh — Hybrid Ready",
+    "email": "mailtomushfiq@gmail.com",
+    "whatsapp": "https://wa.me/8801552368668",
+    "linkedin": "https://www.linkedin.com/in/muhammadmushfiq/",
+    "cv_pdf": "CV_MuhammadMushfiq.pdf"
+  },
+  "hero": {
+    "kicker": "Dhaka, Bangladesh — Hybrid Ready",
+    "headline": "Muhammad Mushfiqur Rahman",
+    "role_line": "Technical Product Manager / Founding Partner / Ex-Developer",
+    "subtext": "I spend most of my career translating between roadmaps and codebases — 7+ years leading product, and 4 years writing the code myself. That history means I still open the repo before I open the backlog: diagnosing issues directly in the source, reviewing pull requests, and shipping AI-assisted prototypes in days, not sprints.",
+    "stack_line": [
+      { "key": "role", "value": "co-founder, AI Product @ PM Heaven" },
+      { "key": "stack", "value": "Java/Spring Boot, Grails, PHP, SQL" },
+      { "key": "domains", "value": "GPS/IoT, SaaS, EdTech, e-commerce, ERP" },
+      { "key": "status", "value": "open to technical PM & founding roles" }
+    ]
+  },
+  "stats": [
+    { "value": "7+", "label": "Years in Product Management" },
+    { "value": "4", "label": "Years as a hands-on Developer" },
+    { "value": "2x", "label": "Founding Partner, startup ventures" },
+    { "value": "150%", "label": "Lead increase from a self-serve PLG redesign" }
+  ],
+  "capabilities": [
+    {
+      "num": "01",
+      "tag": "Strategy",
+      "title": "Metrics-driven roadmaps",
+      "description": "Customer feedback turned into prioritized backlogs, WBS scope control, and MRR-led calls on where to focus — including consolidating a four-product line into one."
+    },
+    {
+      "num": "02",
+      "tag": "Build",
+      "title": "In the codebase, not just the spec",
+      "description": "Hands-on with Java/Spring Boot, Grails, and PHP; comfortable proposing SQL fixes, reviewing code, and working a stack from Kotlin and Swift through Django and Laravel."
+    },
+    {
+      "num": "03",
+      "tag": "Velocity",
+      "title": "AI-assisted delivery",
+      "description": "Rapid prototyping with Loveable and Replit, Figma and Miro for mockups — MVPs delivered in 15–30 days, AI-native workflows stood up in under three months."
+    }
+  ],
+  "case_studies": [
+    {
+      "id": "mrr-consolidation",
+      "tag": "STRATEGY",
+      "title": "Product Strategy",
+      "company": "orDevs",
+      "period": "Aug 2024 — Present",
+      "summary": "The founder was attached to all four products. The MRR data said focus on one.",
+      "image": "",
+      "problem": [
+        "Founder was running four separate product lines simultaneously, spreading dev and attention thin",
+        "No data-backed view of which product actually drove revenue",
+        "Founder resistant to narrowing focus, emotionally invested across all four"
+      ],
+      "solution": [
+        "Ran an MRR analysis across all four products to surface the actual revenue driver",
+        "Built the business case and presented it directly to challenge the founder's resistance to data-driven prioritization",
+        "Persuaded the founder to consolidate focus down to the single strongest product"
+      ],
+      "impact": [
+        { "value": "4x", "label": "focus — realigned growth strategy and resourcing around the single highest-revenue product" }
+      ],
+      "tools": ["MRR analysis", "Stakeholder persuasion", "Prioritization frameworks"],
+      "industry": "SaaS (B2B), early-stage / multi-product startup"
+    },
+    {
+      "id": "feedback-triage",
+      "tag": "PROCESS",
+      "title": "Better Product Culture",
+      "company": "orDevs",
+      "period": "Aug 2024 — Present",
+      "summary": "Feedback was unstructured and dev time was being spent on features nobody asked for.",
+      "image": "",
+      "problem": [
+        "No structured intake for customer feedback, signal and noise mixed together",
+        "Dev cycles were being spent building features nobody asked for"
+      ],
+      "solution": [
+        "Introduced a structured process to collect and prioritize feedback",
+        "Separated actionable signal from noise before anything reached the dev queue"
+      ],
+      "impact": [
+        { "value": "~25%", "label": "cut in dev time spent on the wrong features" }
+      ],
+      "tools": ["Feedback triage process", "Backlog prioritization"],
+      "industry": "EdTech & e-commerce SaaS (B2B)"
+    },
+    {
+      "id": "csat-process",
+      "tag": "RESEARCH",
+      "title": "Research on Customers",
+      "company": "Easytrax World",
+      "period": "Jan 2024 — Jul 2024",
+      "summary": "Standard NPS got low response rates. Built something simpler that customers would actually answer.",
+      "image": "",
+      "problem": [
+        "No structured feedback system in place",
+        "Standard NPS was attempted first but ruled out — response rates were too low to be usable"
+      ],
+      "solution": [
+        "Designed a lightweight 1–5 CSAT process, captured via Customer Care immediately after ticket resolution",
+        "Supplemented with random check-in calls to catch customers who wouldn't otherwise respond"
+      ],
+      "impact": [
+        { "value": "4.6/5", "label": "average satisfaction score, reached within 2 months" }
+      ],
+      "tools": ["CSAT design", "Customer Care workflow integration"],
+      "industry": "SaaS, GPS-tracking platform (IoT)"
+    },
+    {
+      "id": "plg-onboarding",
+      "tag": "GROWTH",
+      "title": "UX Redesign & Product-Led Growth",
+      "company": "Easytrax World",
+      "period": "Aug 2022 — Dec 2023",
+      "summary": "Freemium wasn't viable for IoT hardware. Built a self-serve product experience anyway.",
+      "image": "",
+      "problem": [
+        "IoT-based GPS-tracking product couldn't offer freemium or free trial (hardware/service cost structure makes it economically unviable)",
+        "No self-serve path, meant every prospect needed a manual sales touch before seeing the product"
+      ],
+      "solution": [
+        "Redesigned the onboarding flow and added a registration page allowing any visitor to self-register, capturing their info as a lead",
+        "Built auto-login with demo credentials so visitors could experience the live product immediately — since a freshly registered account has no real GPS device attached yet, demo access was the only way to show the product before purchase"
+      ],
+      "impact": [
+        { "value": "150%", "label": "increase in inbound leads" },
+        { "value": "20%", "label": "increase in demo-to-paid conversion rate" }
+      ],
+      "tools": ["PLG strategy", "Onboarding/registration flow design"],
+      "industry": "IoT, GPS-tracking platform (SaaS)"
+    },
+    {
+      "id": "dual-backend-auth",
+      "tag": "ARCHITECTURE",
+      "title": "Improved Architecture to Migrate Clients",
+      "company": "Easytrax World",
+      "period": "Aug 2022 — Dec 2023",
+      "summary": "Migrated live, paying clients off a white-labeled platform onto a self-hosted system, near-zero downtime.",
+      "image": "",
+      "problem": [
+        "Needed to migrate live, paying GPS-tracking clients off a white-labeled third-party platform onto a self-hosted system",
+        "Migration had to happen with near-zero service disruption to active users — the target was absolute zero, achieved in staging; production carried additional hardware variables outside this story's scope",
+        "Needed enforceable, configurable concurrent-session limits as part of the new auth layer"
+      ],
+      "solution": [
+        "Engineered a dual-backend authentication layer enabling clients to run across both old and new systems during transition",
+        "Built custom middleware to enforce configurable concurrent-session limits"
+      ],
+      "impact": [
+        { "value": "<1%", "label": "service disruption during live client migration" },
+        { "value": "20%+", "label": "of mobile phone numbers updated in CRM & client DB as a side-effect of the migration" }
+      ],
+      "tools": ["Custom middleware", "Dual-backend auth architecture", "JWT/session management"],
+      "industry": "SaaS, GPS-tracking platform (IoT)"
+    },
+    {
+      "id": "multi-platform-launch",
+      "tag": "LEADERSHIP",
+      "title": "Successful Product Launch",
+      "company": "Easytrax World",
+      "period": "Aug 2022 — Dec 2023",
+      "summary": "Coordinating six tech stacks for a launch, without a Tech Lead in the room.",
+      "image": "",
+      "problem": [
+        "Upgraded product launch required coordinating six distinct tech stacks simultaneously",
+        "Needed direct engineering-level coordination, not just spec handoff, across mobile, web, backend, and IoT teams"
+      ],
+      "solution": [
+        "Led the cross-functional team in absence of a Tech Lead, working directly with engineers across Android (Kotlin), iOS (Swift), React, Django, Laravel, and Node.js (IoT device parser)",
+        "Coordinated launch sequencing across all platforms concurrently"
+      ],
+      "impact": [
+        { "value": "7 days", "label": "ahead of deadline — Android app launch" },
+        { "value": "On time", "label": "iOS and web app launches" }
+      ],
+      "tools": ["Cross-functional engineering leadership across 6 stacks"],
+      "industry": "SaaS, GPS-tracking platform — Web, Android & iOS apps, IoT"
+    },
+    {
+      "id": "wbs-delivery",
+      "tag": "PROCESS",
+      "title": "Technical Project Management",
+      "company": "Easytrax World",
+      "period": "Aug 2022 — Dec 2023",
+      "summary": "Poor task granularity and missed dependencies were costing delivery time. Fixed it with structure.",
+      "image": "",
+      "problem": [
+        "Project delivery suffered from poor task granularity, overlapping responsibilities, and missed dependencies",
+        "Needed tighter control across scope, time, and budget simultaneously"
+      ],
+      "solution": [
+        "Built a granular Work Breakdown Structure (WBS) to control scope, time, and budget",
+        "Synced task hierarchy with the Agile backlog for clarity"
+      ],
+      "impact": [
+        { "value": "10%", "label": "reduction in delivery time" }
+      ],
+      "tools": ["WBS", "Agile backlog integration", "Scrum"],
+      "industry": "SaaS, GPS-tracking platform, Android & iOS apps"
+    },
+    {
+      "id": "qups-launch",
+      "tag": "CRISIS RESPONSE",
+      "title": "Service Launch",
+      "company": "QUPS",
+      "period": "May 2020 — Jun 2021",
+      "summary": "COVID created urgent demand for a life-saving service. Launched it fast, remotely, on budget.",
+      "image": "",
+      "problem": [
+        "COVID-19 created urgent demand for an oxygen supply service for patients, under pressure to launch fast",
+        "Operating remotely with cost pressure on a time-sensitive humanitarian & medical service"
+      ],
+      "solution": [
+        "Designed the online (Facebook-based) launch program for the oxygen supply service end-to-end"
+      ],
+      "impact": [
+        { "value": "10%", "label": "cost optimisation" },
+        { "value": "On budget", "label": "kept a life-saving oxygen service within budget during a crisis" }
+      ],
+      "tools": ["WBS", "Time & Cost Analysis"],
+      "industry": "Healthcare/medical supply, remote service launch (during lockdown)"
+    },
+    {
+      "id": "aspile-founding",
+      "tag": "FOUNDING",
+      "title": "Founding PM",
+      "company": "Aspile",
+      "period": "Aug 2019 — Jul 2020",
+      "summary": "Joined as a co-founder for minimal remuneration, so the tech founder didn't have to hire.",
+      "image": "",
+      "problem": [
+        "Early-stage startup, co-founded from scratch, no existing product, process, or operational structure to inherit",
+        "Needed to control burn rate as a founding-stage priority while still building a product/project management function"
+      ],
+      "solution": [
+        "Joined as a co-founder for minimal remuneration alongside the tech founder, who needed an additional person but couldn't yet justify hiring a salaried employee",
+        "Owned product and project management as part of a small founding team"
+      ],
+      "impact": [
+        { "value": "40%", "label": "reduction in operational cost — by structuring the arrangement as a co-founder stake instead of a hire" }
+      ],
+      "tools": ["Lean startup methodology"],
+      "industry": "Startup, Software Dev & IT Services"
+    }
+  ],
+  "experience": [
+    {
+      "period": "Mar 2025 — Present",
+      "role": "Co-founder & AI Product Manager",
+      "company": "PM Heaven",
+      "tag": "Founder",
+      "diff_remove": [],
+      "diff_add": [
+        "Helped clients move to an AI-native workflow within 3 months through AI product strategy engagements",
+        "Delivered AI-powered prototypes and MVPs in 15–30 days using AI-assisted tooling"
+      ]
+    },
+    {
+      "period": "Aug 2024 — Present",
+      "role": "Principal Product Manager",
+      "company": "orDevs",
+      "tag": "Principal",
+      "diff_remove": [],
+      "diff_add": [
+        "Built a structured intake process to triage customer feedback into a prioritized backlog, cutting misdirected dev time by ~25%",
+        "Persuaded the founder to consolidate 4 products into 1 based on MRR analysis, realigning growth around the strongest revenue driver"
+      ]
+    },
+    {
+      "period": "Jul 2024 — Sep 2024",
+      "role": "Senior Training Consultant",
+      "company": "SIMEC Institute of Technology",
+      "tag": "Contract",
+      "diff_remove": [],
+      "diff_add": [
+        "Selected as an industry expert to train a professional cohort in Product Management and Java/Spring Boot under the government's EDGE Project"
+      ]
+    },
+    {
+      "period": "Jan 2024 — Jul 2024",
+      "role": "Lead Product Manager",
+      "company": "Easytrax World",
+      "tag": "Lead PM",
+      "diff_remove": [],
+      "diff_add": [
+        "Designed a lightweight 1–5 CSAT process after low NPS response rates, reaching a 4.6/5 average within 2 months",
+        "Established testing and code-quality policy that cut bug reports by ~33%",
+        "Mentored a customer care executive into a Product Analyst role"
+      ]
+    },
+    {
+      "period": "Aug 2022 — Dec 2023",
+      "role": "Senior Technical Product Manager",
+      "company": "Easytrax World",
+      "tag": "Senior Technical PM",
+      "diff_remove": [],
+      "diff_add": [
+        "Redesigned onboarding with self-registration and demo auto-login — a PLG workaround where freemium wasn't viable for GPS-tracking — driving a 150% increase in leads",
+        "Led a cross-functional team across Android/Kotlin, iOS/Swift, React, Django, Laravel, and Node.js through an upgraded product launch",
+        "Engineered a dual-backend authentication layer to migrate live GPS-tracking clients to a self-hosted system with near-zero downtime, enforcing concurrent-session limits via custom middleware",
+        "Built a granular WBS to control scope, time, and budget, reducing delivery time by 10%"
+      ]
+    },
+    {
+      "period": "Nov 2021 — Aug 2022",
+      "role": "Technical Trainer",
+      "company": "Software Dev Academy (SDA)",
+      "tag": "Remote · Tallinn, EE",
+      "diff_remove": [],
+      "diff_add": ["Trained 3 cohorts of EU students in advanced Java, JDBC, and Hibernate"]
+    },
+    {
+      "period": "May 2020 — Jun 2021",
+      "role": "Technical Product Manager",
+      "company": "Quality Up Services (QUPS)",
+      "tag": "Remote · Detroit, US",
+      "diff_remove": [],
+      "diff_add": ["Led the launch of an oxygen supply service for COVID patients, achieving 10% cost optimisation"]
+    },
+    {
+      "period": "Aug 2019 — Jul 2020",
+      "role": "Founding Product Manager",
+      "company": "Aspile",
+      "tag": "Founder",
+      "diff_remove": [],
+      "diff_add": ["Co-founded the startup and owned product and project management, reducing operational cost by 40%"]
+    },
+    {
+      "period": "2016 — 2022",
+      "role": "Lecturer & Project Supervisor",
+      "company": "Dept. of Software Engineering, DIU",
+      "tag": "Academia",
+      "diff_remove": [],
+      "diff_add": [
+        "Supervised 40+ projects/theses, mentoring teams through full build cycles",
+        "Helped organize DIU's ICONCS2020 international conference (Scopus indexed)"
+      ]
+    },
+    {
+      "period": "2015 — 2016",
+      "role": "Research Associate",
+      "company": "Dept. of Software Engineering, DIU",
+      "tag": "Academia",
+      "diff_remove": [],
+      "diff_add": ["Conducted research alongside teaching programming and project courses"]
+    },
+    {
+      "period": "2011 — 2014",
+      "role": "Software Engineer & Senior Developer",
+      "company": "ABSS Ltd. & MISL BD",
+      "tag": "Developer",
+      "diff_remove": [],
+      "diff_add": [
+        "Authored SRS documentation and led the Academic Module of an ERP built on Groovy/Grails",
+        "Added localization and migrated table-based UI to CSS3 on Ababil, an Islamic banking solution"
+      ]
+    }
+  ],
+  "toolkit": {
+    "Product Ownership": ["Metrics-driven roadmaps", "Feature prioritization", "Value Proposition", "Customer Persona", "PRD", "WBS"],
+    "Concepts & Methods": ["Lean", "Agile", "Scrum", "Kanban", "Lean PLM"],
+    "Technical Fluency": ["Java / Spring Boot", "Grails", "PHP", "SQL tuning", "Elasticsearch (basic)"],
+    "Tools": ["Jira", "Trello", "ClickUp", "Monday", "Notion"],
+    "Prototyping": ["Figma", "Miro", "Loveable", "Replit"],
+    "Domains & Industry": ["SaaS (B2B/B2C)", "GPS Tracking (VTS)", "IoT", "EdTech", "E-commerce", "ERP"]
+  },
+  "background": {
+    "education": [
+      {
+        "degree": "BSc in Computer Science & Engineering (CSE)",
+        "institution": "Khulna University of Engineering & Technology (KUET)",
+        "period": "2006 — 2010",
+        "note": "Achieved Scholarship & waiver of full tuition fees"
+      },
+      {
+        "degree": "SSC & HSC (Equiv. to O Level & A Level), Science",
+        "institution": "Jhenidah Cadet College (JCC), Jessore Board",
+        "period": "2003, 2005",
+        "note": ""
+      }
+    ],
+    "certifications": [
+      {
+        "title": "Generative AI: Foundation Models and Platforms",
+        "issuer": "Coursera / IBM",
+        "year": "2026",
+        "url": "https://www.coursera.org/account/accomplishments/verify/NKSPDSU92D03"
+      },
+      {
+        "title": "Artificial Intelligence Micro Certification™️",
+        "issuer": "Product School",
+        "year": "2024",
+        "url": "https://drive.google.com/file/d/1bwE2qiODunh1-Hx68bPMWklvepFiuJR-/view"
+      },
+      {
+        "title": "Professional Scrum Product Owner™️ (PSPO I)",
+        "issuer": "Scrum.org",
+        "year": "2023",
+        "url": "https://www.scrum.org/user/1127774"
+      },
+      
+      {
+        "title": "Product Lead Growth Micro-Certification™️",
+        "issuer": "Product School",
+        "year": "2023",
+        "url": "https://drive.google.com/file/d/1ZeicKldMCRNpg0zeBn3VFLjW2YJeHM3U/edit"
+      },
+      {
+        "title": "Be & Make A Leader",
+        "issuer": "Skill.jobs & HRDI, DIU",
+        "year": "2022",
+        "url": "https://www.linkedin.com/posts/muhammadmushfiq_certification-certificate-leadership-share-7093266425699573760-Ccht/"
+      }
+    ],
+    "honours": [
+      { "title": "Local Mentor, NASA Space Apps Challenge, Bangladesh Chapter", "issuer": "Awarded by NASA (Space Apps Challenge), USA", "year": "2020 & 2021" },
+      { "title": "Exceptional Counselling Award (Change Together Program)", "issuer": "Awarded by Chairman, BoT, Daffodil Family", "year": "2017" },
+      { "title": "Scholarship for Academic Excellence (HSC Exam)", "issuer": "Jessore Board", "year": "2005" }
+    ],
+    "volunteering": [
+      { "title": "Executive Member", "issuer": "KUET Muslim Community", "year": "2022 — 2024" },
+      { "title": "Co-Chair, Industrial Attachment Committee & Capstone Project Committee", "issuer": "Dept. of SWE, DIU", "year": "2018 — 2020" }
+    ],
+    "publications": [
+      {
+        "title": "A Comparative Analysis of Traditional and Modern Data Compression Schemes for Large Multi-Dimensional Extendible Array",
+        "venue": "ECCE2019, IEEE Xplore",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/ECACE.2019.8679182"
+      }
+    ]
+  },
+  "services": [
+    {
+      "title": "Fractional / Technical Product Manager",
+      "description": "Embedded PM support for teams that need product judgment and technical fluency in the same person — roadmap ownership, backlog discipline, and the ability to review a PR or debug a production issue when needed."
+    },
+    {
+      "title": "Product Strategy Advisory",
+      "description": "Outside-in review of where a product or product line actually stands — MRR-driven prioritization, scope discipline, and the kind of data-backed case that can shift a founder's mind on focus."
+    },
+    {
+      "title": "AI-Native MVP Build",
+      "description": "Rapid, AI-assisted prototyping from spec to a working MVP — 15 to 30 day delivery, using tools like Loveable and Replit alongside traditional architecture and code review."
+    },
+    {
+      "title": "Team Training & Workshops",
+      "description": "Hands-on training for product and engineering teams — Agile/Scrum fundamentals, Java/Spring Boot, or structuring a WBS that actually holds up under delivery pressure."
+    }
+  ],
+  "footer": {
+    "cta": "Open to technical PM roles, founding-team opportunities, and product advisory work — especially where someone needs to move between strategy and the codebase without a translator."
+  }
+}
